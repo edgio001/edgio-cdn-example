@@ -4,7 +4,7 @@ A demo deployment of the CDN example to Edgio.
 
 ## Try It Now
 
-[![Deploy with Edgio](https://docs.edg.io/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/edgio-docs/edgio-cdn-example)
+[![Deploy with Edgio](https://docs.edg.io/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/edgio001/edgio-cdn-example)
 
 ## Getting Started
 
