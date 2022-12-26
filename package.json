@@ -1,11 +1,7 @@
 {
   "name": "cdn-starter-template",
   "scripts": {
-    "edgio:dev": "edgio dev",
-    "edgio:build": "edgio build",
-    "edgio:deploy": "edgio deploy",
-    "edgio:production": "edgio run --production",
-    "format": "prettier --write '**/*' --ignore-unknown"
+    "start": "lscpu"
   },
   "devDependencies": {
     "@edgio/cli": "^5.0.4",
